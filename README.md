@@ -9,3 +9,4 @@ In the future, this will be done simply by specifying the `site_code`
 
 **NOTE**: The code is not optimised for memory,s oit is possible that with some sites with many deployments the code fails due to lack of memory to do the join.
 
+There are two plots as an example. The R code for generating the plot are also in this repo.
