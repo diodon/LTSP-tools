@@ -1,2 +1,2 @@
-# Hourly timne series
+# Hourly time series
 demo notebook
